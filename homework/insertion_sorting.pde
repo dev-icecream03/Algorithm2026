@@ -32,7 +32,7 @@ void swap(int i, int j) {
 
 void insertionSorting() {
   int i, j;
-  for(i=1; i<arr.length - 1; i++) {
+  for(i=1; i<arr.length; i++) {
     for(j=i-1; j>=0; j--) {
       if (arr[j+1] < arr[j]) {
         swap(j+1, j); 
