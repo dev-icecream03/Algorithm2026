@@ -23,3 +23,8 @@
 
 ### 5. [MergeSorting](./homework/merge_sorting.pde)
 ![Alt homework11](./homework/homework1-5.png)
+
+---
+
+### 6. [HeapSorting](./homework/heap_sorting.pde)
+![Alt homework11](./homework/homework1-6.png)
