@@ -15,12 +15,12 @@
 ![Alt homework11](./homework/homework1-3.png)
 
 ---
-
+<!--
 ### 4. [QuikSorting](./homework/quik_sorting.pde)
 ![Alt homework11](./homework/homework1-4.png)
 
 ---
-<!--
+
 ### 5. [MergeSorting](./homework/merge_sorting.pde)
 ![Alt homework11](./homework/homework1-5.png)
 
