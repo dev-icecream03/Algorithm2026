@@ -15,7 +15,7 @@
 ![Alt homework11](./homework/homework1-3.png)
 
 ---
-<!--
+
 ### 4. [QuikSorting](./homework/quik_sorting.pde)
 ![Alt homework11](./homework/homework1-4.png)
 
@@ -27,4 +27,4 @@
 ---
 
 ### 6. [HeapSorting](./homework/heap_sorting.pde)
-![Alt homework11](./homework/homework1-6.png) -->
+![Alt homework11](./homework/homework1-6.png)
