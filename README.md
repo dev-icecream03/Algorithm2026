@@ -28,3 +28,8 @@
 
 ### 6. [HeapSorting](./homework/heap_sorting.pde)
 ![Alt homework11](./homework/homework1-6.png)
+
+## Homework2
+
+### 1. [SortAnimation](./homework/SortAnimation.pde)
+![Alt homework11](./homework/homework2-1.png)
