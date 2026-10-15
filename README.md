@@ -40,5 +40,5 @@
 
 ## Homework3
 
-### 1. [SortAnimation](./homework/SortAnimation.pde), [Array](./homework/Array.pde)
-![Alt homework11](./homework/homework2-1.gif)
+### 1. [BinarySearchTree](./homework/BinarySearchTree.pde)
+![Alt homework11](./homework/homework3-1.gif)
