@@ -34,4 +34,4 @@
 ## Homework2
 
 ### 1. [SortAnimation](./homework/SortAnimation.pde), [Array](./homework/Array.pde)
-![Alt homework11](./homework/homework2-1.png)
+![Alt homework11](./homework/homework2-1.gif)
