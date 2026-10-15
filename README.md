@@ -35,3 +35,10 @@
 
 ### 1. [SortAnimation](./homework/SortAnimation.pde), [Array](./homework/Array.pde)
 ![Alt homework11](./homework/homework2-1.gif)
+
+<br/>
+
+## Homework3
+
+### 1. [SortAnimation](./homework/SortAnimation.pde), [Array](./homework/Array.pde)
+![Alt homework11](./homework/homework2-1.gif)
