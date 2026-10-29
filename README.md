@@ -42,3 +42,12 @@
 
 ### 1. [BinarySearchTree](./homework/BinarySearchTree.pde)
 ![Alt homework11](./homework/homework3-1.gif)
+
+<br/>
+
+## Homework4
+
+### 1. [InfixToPostfixCal](./homework/infix_to_postfix_cal.pde)
+![Alt homework11](./homework/homework4-1.gif)
+
+
