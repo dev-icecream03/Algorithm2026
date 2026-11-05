@@ -50,4 +50,12 @@
 ### 1. [InfixToPostfixCal](./homework/infix_to_postfix_cal.pde)
 ![Alt homework11](./homework/homework4-1.gif)
 
+<br/>
+
+## Homework5
+
+### 1. [PebblePlacement](./homework/Pebble_Placement.pde)
+![Alt homework11](./homework/homework5-1.gif)
+
+
 
