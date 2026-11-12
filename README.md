@@ -57,5 +57,10 @@
 ### 1. [PebblePlacement](./homework/Pebble_Placement.pde)
 ![Alt homework11](./homework/homework5-1.gif)
 
+<br/>
 
+## Homework6
+
+### 1. [BFS_and_DFS_for_a_graph](./homework/BFS_and_DFS_for_a_graph.pde)
+![Alt homework11](./homework/homework6-1.gif)
 
